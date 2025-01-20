@@ -30,4 +30,4 @@ This project provides a basic timer where users can:
    git clone https://github.com/Aman-toad/countdown-timer.git
 
 ## LINK
-[Page link](url)
+[Page link](https://aman-toad.github.io/countdown-timer/)
